@@ -102,7 +102,6 @@
   "vscode-edge-devtools.mirrorEdits": true,
   "update.mode": "manual",
   "git.autofetch": true,
-  "python.defaultInterpreterPath": "C:\\Users\\adity\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -140,13 +139,6 @@
   },
   "editor.linkedEditing": true,
   "gitlens.telemetry.enabled": false,
-  "java.configuration.runtimes": [
-    {
-      "name": "JavaSE-20",
-      "path": "C:\\Program Files\\Java\\jdk-20",
-      "default": true
-    }
-  ],
   "markdownlint.customRules": [
     "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
   ],
